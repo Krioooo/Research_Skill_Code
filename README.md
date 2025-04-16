@@ -21,5 +21,5 @@
 
 (3)**Dynamic_Pricing_code.py**: Code for modifying the experiment to include gradual (rather than abrupt) shifts in reward probabilities.
 
-(4)**CMAB_NN_code.py**: Code for neural networks and contextual multi-armed bandit algorithm.
+(4)**NNCMAB.py**: Code for neural networks and contextual multi-armed bandit algorithm.
    
